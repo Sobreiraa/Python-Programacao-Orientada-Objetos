@@ -1,0 +1,5 @@
+Uma classe é uma forma de definir um tipo de dado em uma linguagem orientada a objeto. 
+Ela é formada por dados e comportamentos.
+
+Para definir os dados são utilizados os atributos, e para definir o comportamento são utilizados métodos. 
+Depois que uma classe é definida podem ser criados diferentes objetos que utilizam a classe

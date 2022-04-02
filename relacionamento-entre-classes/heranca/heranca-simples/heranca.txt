@@ -1,0 +1,4 @@
+A herança é um princípio próprio à programação orientada a objetos (POO) que permite criar uma nova classe a partir de uma já existente. Herança, também chamada de subclasses, provém da subclasse, da classe recém-criada que contém atributos e métodos da qual deriva. A principal vantagem da herança é a capacidade para definir novos atributos e métodos para a subclasse, que se somam aos atributos e métodos herdados.
+
+A herança, então, permite criar uma estrutura hierárquica de classes cada vez mais especializada. A grande vantagem disso é não ter que partir do zero para especializar uma classe existente. 
+

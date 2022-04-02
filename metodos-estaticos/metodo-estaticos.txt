@@ -1,0 +1,3 @@
+Uma forma de promover o compartilhamento de uma mesma váriavel e de seu valor entre as várias instâncias de uma classe é declarando essa váriavel de classe como estática (staticmethod)
+
+Em outras palavras, atributos ou campos estáticos de uma classe são compartilhados por todas as instâncias dessa classe e se o valor de um campo estático for modifcado por uma das instâncias, a modificação será refletida em todas as instâncias da mesma classe.

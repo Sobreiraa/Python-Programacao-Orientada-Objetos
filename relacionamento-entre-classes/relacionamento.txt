@@ -1,0 +1,9 @@
+Associação entre objetos
+▪ Atributo de um objeto que se refere a outro
+▪ Atributo definido na classe
+
+Tipos de relacionamento:
+▪ Associação
+▪ Agregação
+▪ Composição
+▪ Herança
