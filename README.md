@@ -7,7 +7,7 @@ Em cada pasta tem um arquivo txt com um resumo básico sobre determinado assunto
 O conteúdo vem de cursos na Udemy, Alura e no YouTube.
 
 Alura : 
-https://cursos.alura.com.br/course/python-3-intro-orientacao-objetos
+https://cursos.alura.com.br/course/python-3-intro-orientacao-objetos e também
 https://cursos.alura.com.br/course/python-3-avancando-orientacao-objetos
 
 Udemy:
