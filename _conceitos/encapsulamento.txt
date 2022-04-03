@@ -1,0 +1,13 @@
+O encapsulamento é um dos pilares da orientação a objetos. Por meio dele, é possível simplificar bastante a programação, bem como proteger informações sigilosas ou sensíveis. Dominar esse conceito é fundamental, uma vez que com ele é possível deixar o código mais legível, funcional e reutilizável.
+
+Encapsular os dados de uma aplicação significa evitar que estes sofram acessos indevidos. Para isso, é criada uma estrutura que contém métodos que podem ser utilizados por qualquer outra classe, sem causar inconsistências no desenvolvimento de um código.
+
+Na prática, isso é feito por meio de dois métodos: os getters e os setters. O primeiro tem por objetivo retornar o valor que lhe foi pedido, mas de forma a não prejudicar a integridade do dado em si.
+
+Já o segundo recebe como argumento uma informação, que pode ser qualquer tipo de dados suportados pela linguagem. Dessa forma, não haverá o risco de ocorrerem acessos indevidos.
+
+Os níveis de acesso são responsáveis por informar qual o tipo de permissão de um determinado atributo. Nesse sentido, existem três níveis, que são:
+
+Público: consiste no nível de proteção mais baixo de todos, uma vez que todas as classes de um programa podem acessar os dados e os métodos livremente. Pode-se dizer que, nesse caso, não existe encapsulamento;
+Protegido: nesse nível, o acesso passa a ser mais restrito. Somente as classes derivadas da original é que têm total acesso aos atributos e métodos. Aqui, já existe encapsulamento, de modo que os métodos get e set passam a ser usados, bem como na declaração do atributo usa-se o private em vez do public;
+Private: aqui, o acesso aos dados é feito somente dentro da própria classe onde ela foi declarada.

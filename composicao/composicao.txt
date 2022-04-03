@@ -1,0 +1,3 @@
+A composição é uma agregação que possui dependência entre os objetos, ou seja, se o objeto principal for destruído, os objetos que o compõe não podem existir mais. Há a chamada relação de morte.
+
+Um exemplo é a relação entre uma a universidade e os departamentos. Além da universidade possuir vários departamentos, eles só podem existir se a universidade existir.

@@ -1,0 +1,5 @@
+Getters e setters são usados para proteger seus dados, especialmente na criação de classes.
+
+Para cada instância de variável, um método getter retorna seu valor, enquanto um método setter o define ou atualiza. Com isso em mente, getters e setters também são conhecidos como métodos de acesso e de modificação, respectivamente.
+
+Os getters e setters são sempre usados quando queremos encapsular uma classe, ou seja, os atributos (private) dessa classe só poderão ser acessados por outras classes através desses métodos. Isso serve para controlar o acesso aos atributos da classe e é uma boa prática.

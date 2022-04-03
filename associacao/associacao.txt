@@ -1,0 +1,3 @@
+A associação entre dois objetos ocorre quando eles são completamente independentes entre si mas eventualmente estão relacionados. Ela pode ser considerada uma relação de muitos para muitos. Não há propriedade (ownership) nem dependência entre eles. A relação é eventual.
+
+Um exemplo é a relação entre um professor e alunos. Um aluno pode ter vários professores e um professor pode ter vários alunos. Um não depende do outro para existir. Professores podem existir sem alunos e e alunos podem existir sem professores (pelo menos em requisitos normais). Outro exemplo:
